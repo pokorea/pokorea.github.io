@@ -16,8 +16,8 @@ main:
 docs:
   - title: Introduction to World Economic Indicators
     children:
-      - title: "Indicators1"
-        url: /docs/quick-start-guide/
+      - title: "World Economic Indicators"
+        url: /docs/world-economic-indicators/
       - title: "Indicators2"
         url: /docs/structure/
       - title: "Indicators3"
