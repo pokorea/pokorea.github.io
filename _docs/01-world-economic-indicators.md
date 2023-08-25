@@ -45,3 +45,41 @@ toc: true
 * **Trade balance** is an indicator that represents the difference between exports and imports of a country. If the trade balance is in surplus, it means that the country's economy has an advantage in international trade. For example, South Korea's trade balance is $10.8 billion in surplus as of 2022.
 
 **These indicators can be used to understand the state of the global economy and predict the future.**
+
+
+
+**Global economic indicators can be broadly divided into macroeconomic indicators and microeconomic indicators.**
+
+**Macroeconomic indicators** are used to assess the overall economy of a country. They provide a snapshot of a country's economic activity, such as its size, growth rate, inflation rate, unemployment rate, and trade balance.
+
+**Major macroeconomic indicators include:**
+
+* **Real gross domestic product (GDP)**: The total value of all final goods and services produced in a country in a given year.
+* **Economic growth rate** : The percentage change in GDP from one year to the next.
+* **Inflation rate** : The rate at which prices for goods and services are rising.
+* **Unemployment rate** : The percentage of the labor force that is unemployed and actively seeking employment.
+* **Trade balance** : The difference between a country's exports and imports.
+
+**Microeconomic indicators** are used to assess specific sectors of a country's economy. They provide insights into the performance of specific industries, such as the stock market, currency exchange rates, oil prices, interest rates, and consumer confidence.
+
+**Major microeconomic indicators include:**
+
+* **KOSPI** : The stock market index of the Korea Exchange, which measures the performance of all listed companies in South Korea.
+* **USD/KRW exchange rate** : The exchange rate between the U.S. dollar and the South Korean won.
+* **International oil prices** : The prices of oil traded on international markets.
+* **Interest rates** : The rates at which banks lend money to each other.
+* **Consumer confidence index** : A measure of how confident consumers are about the future of the economy.
+
+**Global economic indicators are released on a regular basis by governments, central banks, and international organizations. The frequency and timing of releases vary by indicator.**
+
+**For example, GDP is released quarterly, economic growth rate is released quarterly, inflation rate is released monthly, unemployment rate is released monthly, and trade balance is released monthly.**
+
+**Macroeconomic indicators are available from a variety of sources, including government websites, central bank websites, international organizations, news organizations, and financial institutions. Microeconomic indicators are also available from these sources, as well as from financial markets and other private-sector organizations.**
+
+**The following are some of the major websites where you can find global economic indicators:**
+
+* **Bank of Korea**
+* **Korea Exchange**
+* **Bloomberg**
+* **Reuters**
+* **CNBC**
