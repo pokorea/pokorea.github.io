@@ -9,7 +9,7 @@ toc: true
 ---
 
 
-**What are global economic indicators?**
+## What are global economic indicators?
 
 **Global economic indicators are a variety of statistical data that are used to assess the state of the global economy. For example, there are indicators that represent the size of a country's economy, its growth rate, inflation rate, unemployment rate, and trade balance.**
 
@@ -32,7 +32,7 @@ toc: true
 
 **By understanding the state of the global economy through global economic indicators, it can help to formulate economic policies and develop business strategies.**
 
-**Utilization cases of global economic indicators**
+## Utilization cases of global economic indicators
 
 **Global economic indicators are used in a variety of fields. For example, governments use global economic indicators to formulate economic policies. Businesses use global economic indicators to develop business strategies. Individuals use global economic indicators to develop investment strategies.**
 
@@ -46,7 +46,7 @@ toc: true
 
 **These indicators can be used to understand the state of the global economy and predict the future.**
 
-
+## Macroeconomic indicators and microeconomic indicators.
 
 **Global economic indicators can be broadly divided into macroeconomic indicators and microeconomic indicators.**
 
