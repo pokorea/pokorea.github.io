@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "World Economic Indicators Analysis: A Practical Guide using Python"
+  - title: "Data Analysis with Python"
     url: /docs/main/
   - title: "About"
     url: /about/
@@ -50,7 +50,7 @@ docs:
         url: /docs/javascript/
   - title: Brainstorming
     children:
-      - title: "Conclusion"
+      - title: "Brainstorming with AI"
         url: /docs/history/
         
 
