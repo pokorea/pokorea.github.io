@@ -14,54 +14,45 @@ main:
 
 # documentation links
 docs:
-  - title: Writing
+  - title: Introduction to World Economic Indicators
     children:
-      - title: "Quick-Start Guide"
+      - title: "Indicators1"
         url: /docs/quick-start-guide/
-      - title: "Structure"
+      - title: "Indicators2"
         url: /docs/structure/
-      - title: "Installation"
+      - title: "Indicators3"
         url: /docs/installation/
-      - title: "Upgrading"
+      - title: "Indicators..."
         url: /docs/upgrading/
-  - title: Generation
+  - title: Data Collection and Cleaning
     children:
-      - title: "Configuration"
+      - title: "Case1"
         url: /docs/configuration/
-      - title: "Overriding Theme Defaults"
+      - title: "Case2"
         url: /docs/overriding-theme-defaults/
-      - title: "Navigation"
+      - title: "Case..."
         url: /docs/navigation/
-  - title: Explanation
+  - title: Understanding and Summarizing
     children:
-      - title: "Working with Posts"
+      - title: "Interpretation and Explanation"
         url: /docs/posts/
-      - title: "Working with Pages"
+      - title: "Summary and Visualization"
         url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-  - title: Summary
+  - title: Analysis and Case Study
     children:
-      - title: "Stylesheets"
+      - title: "Analysis of Economic Phenomena"
         url: /docs/stylesheets/
-      - title: "JavaScript"
+      - title: "Case Study1"
         url: /docs/javascript/
-  - title: Analysis
-    children:
-      - title: "History"
-        url: /docs/history/
-      - title: "Contributing"
-        url: /docs/contributing/
-      - title: "Old 2.2 Docs"
-        url: /docs/docs-2-2/
+      - title: "Case Study 2"
+        url: /docs/javascript/
+      - title: "Case Study..."
+        url: /docs/javascript/
   - title: Brainstorming
     children:
-      - title: "History"
+      - title: "Conclusion"
         url: /docs/history/
-      - title: "Contributing"
-        url: /docs/contributing/
-      - title: "Old 2.2 Docs"
-        url: /docs/docs-2-2/
+        
 
 # sidebar navigation list sample
 sidebar-sample:
