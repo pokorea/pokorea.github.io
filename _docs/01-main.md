@@ -9,13 +9,3 @@ toc: true
 ---
 
 ## ready.
-
-```terminal
-├── _includes
-├── _layouts
-├── _sass
-├── assets
-|  ├── css
-|  ├── fonts
-|  └── js
-```
