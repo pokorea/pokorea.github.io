@@ -16,8 +16,8 @@ docs:
     children:
       - title: "World Economic Indicators"
         url: /docs/world-economic-indicators/
-      - title: "Indicators2"
-        url: /docs/structure/
+      - title: "Indicator-GDP"
+        url: /docs/indicator-gdp/
       - title: "Indicators3"
         url: /docs/installation/
       - title: "Indicators..."
