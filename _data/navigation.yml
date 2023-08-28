@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Data Analysis with Python"
-    url: /docs/main/
   - title: "Posts"
     url: /year-archive/
   - title: "Collections"
     url: /collection-archive/
+  - title: "Data Analysis with Python"
+    url: /docs/main/
   - title: "About"
     url: /about/
 
