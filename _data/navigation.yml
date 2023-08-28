@@ -18,8 +18,8 @@ docs:
         url: /docs/world-economic-indicators/
       - title: "Indicator-GDP"
         url: /docs/indicator-gdp/
-      - title: "Indicators3"
-        url: /docs/installation/
+      - title: "Indicator-Inflation-rate"
+        url: /docs/indicator-inflation-rate/
       - title: "Indicators..."
         url: /docs/upgrading/
   - title: Data Collection and Cleaning
