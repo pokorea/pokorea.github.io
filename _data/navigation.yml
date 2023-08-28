@@ -2,14 +2,12 @@
 main:
   - title: "Data Analysis with Python"
     url: /docs/main/
-  - title: "About"
-    url: /about/
   - title: "Posts"
     url: /year-archive/
   - title: "Collections"
     url: /collection-archive/
-  - title: "Notes"
-    url: /terms/
+  - title: "About"
+    url: /about/
 
 
 # documentation links
