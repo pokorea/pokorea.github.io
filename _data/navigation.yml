@@ -9,48 +9,46 @@ main:
   - title: "About"
     url: /about/
 
-
 # documentation links
-docs:
-  - title: Introduction to World Economic Indicators
-    children:
-      - title: "World Economic Indicators"
-        url: /docs/world-economic-indicators/
-      - title: "Indicator-GDP"
-        url: /docs/indicator-gdp/
-      - title: "Indicator-Inflation-rate"
-        url: /docs/indicator-inflation-rate/
-      - title: "Indicators..."
-        url: /docs/upgrading/
-  - title: Data Collection and Cleaning
-    children:
-      - title: "Case1"
-        url: /docs/configuration/
-      - title: "Case2"
-        url: /docs/overriding-theme-defaults/
-      - title: "Case..."
-        url: /docs/navigation/
-  - title: Understanding and Summarizing
-    children:
-      - title: "Interpretation and Explanation"
-        url: /docs/posts/
-      - title: "Summary and Visualization"
-        url: /docs/pages/
-  - title: Analysis and Case Study
-    children:
-      - title: "Analysis of Economic Phenomena"
-        url: /docs/stylesheets/
-      - title: "Case Study1"
-        url: /docs/javascript/
-      - title: "Case Study 2"
-        url: /docs/javascript/
-      - title: "Case Study..."
-        url: /docs/javascript/
-  - title: Brainstorming
-    children:
-      - title: "Brainstorming with AI"
-        url: /docs/history/
-        
+# docs:
+#   - title: Introduction to World Economic Indicators
+#     children:
+#       - title: "World Economic Indicators"
+#         url: /docs/world-economic-indicators/
+#       - title: "Indicator-GDP"
+#         url: /docs/indicator-gdp/
+#       - title: "Indicator-Inflation-rate"
+#         url: /docs/indicator-inflation-rate/
+#       - title: "Indicators..."
+#         url: /docs/upgrading/
+#   - title: Data Collection and Cleaning
+#     children:
+#       - title: "Case1"
+#         url: /docs/configuration/
+#       - title: "Case2"
+#         url: /docs/overriding-theme-defaults/
+#       - title: "Case..."
+#         url: /docs/navigation/
+#   - title: Understanding and Summarizing
+#     children:
+#       - title: "Interpretation and Explanation"
+#         url: /docs/posts/
+#       - title: "Summary and Visualization"
+#         url: /docs/pages/
+#   - title: Analysis and Case Study
+#     children:
+#       - title: "Analysis of Economic Phenomena"
+#         url: /docs/stylesheets/
+#       - title: "Case Study1"
+#         url: /docs/javascript/
+#       - title: "Case Study 2"
+#         url: /docs/javascript/
+#       - title: "Case Study..."
+#         url: /docs/javascript/
+#   - title: Brainstorming
+#     children:
+#       - title: "Brainstorming with AI"
+#         url: /docs/history/
 
 # sidebar navigation list sample
 sidebar-sample:
